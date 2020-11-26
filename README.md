@@ -16,6 +16,7 @@
 ## Enhancements and/or Changes
 1. Add logs on a database of similar;
 2. Treat better the possible exceptions types and return the proper http code;
+3. Use HttpClientFactory to improve performance.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
