@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "DVxurPigVebcWoLGzI/L415OoPlTj3c42P/DalfHHY21KdCSMjQkpgpajugtgAhKB77kXIhQ6mXsuWz+x+yIew==",
+  "dgSpecHash": "dEMGsQxmxWZMC/58LzbN3GnODeujigEQTfGjNEJ2tz/+3qWVH9roHUxYA6282PfdeHxU7pSetx4lCPH8gdaTTQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Gustavo\\source\\repos\\HackerNews\\HackerNews\\HackerNews.csproj",
   "expectedPackageFiles": [
@@ -49,6 +49,7 @@
     "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.aspnetcore.razor.design\\2.2.0\\microsoft.aspnetcore.razor.design.2.2.0.nupkg.sha512",
     "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\2.2.0\\microsoft.aspnetcore.razor.language.2.2.0.nupkg.sha512",
     "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.aspnetcore.razor.runtime\\2.2.0\\microsoft.aspnetcore.razor.runtime.2.2.0.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.aspnetcore.responsecaching\\2.2.0\\microsoft.aspnetcore.responsecaching.2.2.0.nupkg.sha512",
     "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.aspnetcore.responsecaching.abstractions\\2.2.0\\microsoft.aspnetcore.responsecaching.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.aspnetcore.routing\\2.2.2\\microsoft.aspnetcore.routing.2.2.2.nupkg.sha512",
     "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.aspnetcore.routing.abstractions\\2.2.0\\microsoft.aspnetcore.routing.abstractions.2.2.0.nupkg.sha512",
@@ -59,6 +60,7 @@
     "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.aspnetcore.server.kestrel.https\\2.2.0\\microsoft.aspnetcore.server.kestrel.https.2.2.0.nupkg.sha512",
     "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.aspnetcore.server.kestrel.transport.abstractions\\2.2.0\\microsoft.aspnetcore.server.kestrel.transport.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.aspnetcore.server.kestrel.transport.sockets\\2.2.0\\microsoft.aspnetcore.server.kestrel.transport.sockets.2.2.0.nupkg.sha512",
+    "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.aspnetcore.session\\2.2.0\\microsoft.aspnetcore.session.2.2.0.nupkg.sha512",
     "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.aspnetcore.webutilities\\2.2.0\\microsoft.aspnetcore.webutilities.2.2.0.nupkg.sha512",
     "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\1.1.0\\microsoft.codeanalysis.analyzers.1.1.0.nupkg.sha512",
     "C:\\Users\\Gustavo\\.nuget\\packages\\microsoft.codeanalysis.common\\2.8.0\\microsoft.codeanalysis.common.2.8.0.nupkg.sha512",

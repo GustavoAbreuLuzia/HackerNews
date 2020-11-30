@@ -13,6 +13,7 @@ using System.Threading.Tasks;
 namespace HackerNews_Gustavo.Controllers
 {
     [Route("api/[controller]")]
+    [ResponseCache(Duration = 60, Location = ResponseCacheLocation.Any)]
     [ApiController]
     public class HackerNewsController : ControllerBase
     {

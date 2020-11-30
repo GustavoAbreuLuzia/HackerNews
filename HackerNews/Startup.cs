@@ -1,15 +1,10 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using HackerNews.Settings;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 
 namespace HackerNews
 {
@@ -30,6 +25,7 @@ namespace HackerNews
         public void ConfigureServices(IServiceCollection services)
         {
             services.Configure<HackerNewsAPI>(Configuration.GetSection("HackerNewsAPI"));
+            services.AddResponseCaching();
             services.AddMvc();
         }
 
@@ -42,6 +38,7 @@ namespace HackerNews
             }
 
             app.UseAuthentication();
+            app.UseResponseCaching();
 
             app.UseMvc(routes =>
             {

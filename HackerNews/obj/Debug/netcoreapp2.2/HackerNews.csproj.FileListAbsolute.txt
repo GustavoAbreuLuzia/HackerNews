@@ -4,14 +4,15 @@ C:\Users\Gustavo\source\repos\HackerNews\HackerNews\obj\Debug\netcoreapp2.2\Hack
 C:\Users\Gustavo\source\repos\HackerNews\HackerNews\obj\Debug\netcoreapp2.2\HackerNews.RazorAssemblyInfo.cache
 C:\Users\Gustavo\source\repos\HackerNews\HackerNews\obj\Debug\netcoreapp2.2\HackerNews.RazorAssemblyInfo.cs
 C:\Users\Gustavo\source\repos\HackerNews\HackerNews\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Gustavo\source\repos\HackerNews\HackerNews\bin\Debug\netcoreapp2.2\libman.json
 C:\Users\Gustavo\source\repos\HackerNews\HackerNews\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
 C:\Users\Gustavo\source\repos\HackerNews\HackerNews\bin\Debug\netcoreapp2.2\HackerNews.deps.json
 C:\Users\Gustavo\source\repos\HackerNews\HackerNews\bin\Debug\netcoreapp2.2\HackerNews.runtimeconfig.json
 C:\Users\Gustavo\source\repos\HackerNews\HackerNews\bin\Debug\netcoreapp2.2\HackerNews.runtimeconfig.dev.json
 C:\Users\Gustavo\source\repos\HackerNews\HackerNews\bin\Debug\netcoreapp2.2\HackerNews.dll
+C:\Users\Gustavo\source\repos\HackerNews\HackerNews\obj\Debug\netcoreapp2.2\HackerNews.csprojAssemblyReference.cache
 C:\Users\Gustavo\source\repos\HackerNews\HackerNews\obj\Debug\netcoreapp2.2\HackerNews.RazorTargetAssemblyInfo.cache
 C:\Users\Gustavo\source\repos\HackerNews\HackerNews\obj\Debug\netcoreapp2.2\HackerNews.genruntimeconfig.cache
-C:\Users\Gustavo\source\repos\HackerNews\HackerNews\bin\Debug\netcoreapp2.2\libman.json
 C:\Users\Gustavo\source\repos\HackerNews\HackerNews\bin\Debug\netcoreapp2.2\HackerNews.pdb
 C:\Users\Gustavo\source\repos\HackerNews\HackerNews\obj\Debug\netcoreapp2.2\HackerNews.dll
 C:\Users\Gustavo\source\repos\HackerNews\HackerNews\obj\Debug\netcoreapp2.2\HackerNews.pdb
