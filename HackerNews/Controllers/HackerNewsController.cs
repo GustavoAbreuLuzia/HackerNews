@@ -9,10 +9,12 @@ using System.Net.Http;
 using HackerNews.Models;
 using Newtonsoft.Json;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 
 namespace HackerNews_Gustavo.Controllers
 {
     [Route("api/[controller]")]
+    //[Authorize] JWT Authentication to be finished on further releases
     [ResponseCache(Duration = 60, Location = ResponseCacheLocation.Any)]
     [ApiController]
     public class HackerNewsController : ControllerBase
