@@ -8,6 +8,11 @@
 2. Run with IIS Express;
 3. Get the response from the browser or make a request by any API Testing Tool.
 
+## Performance
+Based on [Microsoft Documentation](https://docs.microsoft.com/en-us/aspnet/core/performance/performance-best-practices?view=aspnetcore-2.2) the API uses:
+1. Response Caching
+2. Asynchronous requests
+
 ## Assumptions 
 1. The endpoint for best stories always return the list ordened by score;
 2. The commentCount property on the response is the total amount of comments on all levels (comments of comments) of the story;
